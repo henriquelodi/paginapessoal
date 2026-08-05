@@ -21,7 +21,7 @@ header{
 }
 
 .cabecalho_imagem{
-    width: 500px;
+    width: 350px;
 }
 
 .titulo_site{
@@ -59,7 +59,7 @@ header{
 
 .titulo-sobre{
     font-size: 45px;
-    margin-top: -200px;
+    margin-top: 100px;
     margin-bottom: 20px;
     text-align: center;
 }
